@@ -1,7 +1,7 @@
 #include "tamaki.h"
 #include <stdio.h>
 
-void ShowName()
+void tamaki::ShowName()
 {
-	printf("‹Ê’uË‰i");
+	printf("‹Ê’uË‰i\n");
 }
