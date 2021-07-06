@@ -5,6 +5,7 @@
 void Sato::ShowName()
 {
 	printf("Naomihi Sato\n");
+	printf("もーかりまっかー\n");
 }
 
 
